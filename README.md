@@ -59,8 +59,6 @@ This project addresses these gaps through a consolidated, interactive dashboard.
 
 ---
 
-## Project Preview
-_Add dashboard screenshots here_
 
 ---
 
